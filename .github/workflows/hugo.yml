@@ -18,19 +18,19 @@ jobs:
         submodules: true
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
         hugo-version: 'latest'
 
     - name: Build
       run: hugo --minify
 
-    - name: Deploy
-      uses: appleboy/ssh-action@master
+    - name: Deploy website with rsync
+      uses: burnett01/rsync-deployments@5.2
       with:
-        host: ${{ secrets.HOST }}
-        username: ${{ secrets.USER }}
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
-        script: |
-          rm -rf /home/users/dominik/docker/appdata/nginx/content/hugo/*
-          cp -R ./public/* /home/users/dominik/docker/appdata/nginx/content/hugo/
+        switches: -avzr --quiet --delete
+        path: public/
+        remote_path: /home/users/dominik/docker/appdata/nginx/content/hugo/
+        remote_host: ${{ secrets.HOST }}
+        remote_user: ${{ secrets.USER }}
+        remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
