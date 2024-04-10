@@ -1,6 +1,6 @@
 baseURL = 'https://domnek.de/'
 languageCode = 'de'
-title = 'Digitaler Garten'
+title = 'dw - handbuch'
 theme = 'hugo-geekdoc'
 
 pluralizeListTitles = false
