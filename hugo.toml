@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://domnek.de/'
 languageCode = 'de'
 title = 'Digitaler Garten'
 theme = 'hugo-geekdoc'
