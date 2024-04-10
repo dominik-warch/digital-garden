@@ -33,4 +33,4 @@ jobs:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
           rm -rf /home/users/dominik/docker/appdata/nginx/content/hugo/*
-          cp -R public/* /home/users/dominik/docker/appdata/nginx/content/hugo/
+          cp -R ./public/* /home/users/dominik/docker/appdata/nginx/content/hugo/
