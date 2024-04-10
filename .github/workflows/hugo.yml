@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       with:
         submodules: true
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-versions: 'latest'
+        hugo-version: 'latest'
 
     - name: Build
       run: hugo --minify
@@ -31,6 +31,6 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USER }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        scripts: |
+        script: |
           rm -rf /home/users/dominik/docker/appdata/nginx/content/hugo/*
           cp -R public/* /home/users/dominik/docker/appdata/nginx/content/hugo/
