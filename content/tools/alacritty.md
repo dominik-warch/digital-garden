@@ -35,7 +35,7 @@ style = "Italic"
 
 [font.normal]
 family = "Hack Nerd Font Mono"
-style = "Regulat"
+style = "Regular"
 
 [keyboard]
 bindings = [
