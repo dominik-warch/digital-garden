@@ -1,4 +1,4 @@
-baseURL = 'https://domnek.de/'
+baseURL = 'https://wiki.domnek.de/'
 languageCode = 'de'
 title = 'dw - handbuch'
 theme = 'hugo-geekdoc'
