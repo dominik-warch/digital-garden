@@ -2,19 +2,20 @@
 title: Grundbegriffe
 weight: 1
 ---
-* **Aktion, freie Aktion, Reaktion:** Handlungen im Kampf
-* **Angriff:** Hierunter fallen alle Arten von Schlägen, Stichen sowie Fernkampfangriffe auf Gegner.
-* **Angriffsdistanz:** Die maximale Distanz, in der ein Nahkampfangriff noch möglich ist. Sie beträgt 1,5m.
-* **Attacke-Modifikator (ATm)**: Der Attacke-Modifikator (ATm oder AT-Mod) ergibt sich aus der Formel `Waffen-AT - 10`. Um einen Gegner im Nahkampf anzugreifen, muss eine Probe auf Attacke ausgeführt werden. Hierzu würfelst du mit einem W20 und addierst deine ATm. Ist das Ergebnis höher als der Verteidigungswert (VT) seines Gegners, trifft dein Held seinen Gegner
-* **Initiative:** Die Initiative bestimmt die Reihenfolge der Akteure im Kampf.
-* **Kampfrunde (KR):** Die Dauer eines Kampfes wird in Kampfrunden bemessen. Eine Kampfrunde dauert 2-5 Sekunden. Jeder im Kampf Beteiligte kann innerhalb dieses Zeitraums handeln, d.h. seine Aktion sowie eine freie Aktion ausführen.
-* **Kampftechnikwert (KTW):** Der Kampftechnikwert stellt die Kompetenz eines Kämpfers im Umgang mit einer Art von Waffen dar. Jeder Waffe ist einer Kampftechnik zugeordnet.
-* **Lebensenergie (LE):** Die Lebensenergie stellt die Gesundheit eines Helden dar. Immer wenn er Schaden nimmt, vergiftet wird oder an einer Krankheit leidet, verliert er Lebenspunkte. Hat ein Held die Hälfte der Lebenspunkte verloren, erhält er den Zustand Schmerz. Ab 0 Lebenspunkten liegt ein Held im Sterben. Steigen die Lebenspunkte wieder über diese Begrenzungen, verschwindet damit auch die entsprechende Stufe Schmerz.
-* **Manöver:** Manöver sind spezielle, durch Sonderfertigkeiten ermöglichte Angriffe.
-* **Rüstungsschutz (RS):** Rüstungen aller Art verfügen über einen Rüstungsschutz, der den Verteidigungswert modifiziert.
-* **Trefferpunkte (TP):** Waffen, zur Not aber auch die bloße Faust können einen Gegner verletzen. Wie stark diese Verletzungen sind, wie viele Lebenspunkte er verliert ist von den Trefferpunkten der Waffe abhängig. Meist werden sie mit einem oder zwei W6 zuzüglich Zuschlägen ausgewürfelt.
-* **Belastung:** Die Belastung einer Rüstung bestimmt die Rüstungsklasse, der sie angehört. Rüstungen mit BE 0-1 sind leichte Rüstungen, Rüstungen mit BE 2 sind mittelschwere Rüstungen und Rüstungen mit BE 3+ sind schwere Rüstungen.
-* **Status Schmerz:** Werden Kämpfer im Gefecht ernsthaft verletzt, erleiden sie den Status Schmerz. Der Status Schmerz erzeugt wie andere Stati auch Abzüge auf verschiedene Kampfwerte.
-* **Vorteil und Nachteil:** Manchmal führt eine Spezialfähigkeit oder ein Zauber dazu, dass du bei einem Würfelwurf im Vorteil oder im Nachteil bist. In diesem Fall würfelst du mit einem zweiten W20. Es gilt die höhere Augenzahl beider Würfel, wenn du im Vorteil bist, und die niedrigere, wenn du im Nachteil bist. Wirken sich mehrere Umstände auf einen Wurf aus und verleiht jeder davon einen Vorteil oder einen Nachteil, würfelst du trotzdem immer nur mit einem zusätzlichen W20. Beispiel: Verleihen dir zwei günstige Umstände einen Vorteil, würfelst du dennoch nur mit einem zusätzlichen W20. Falls die Umstände dazu führen, dass für einen Wurf sowohl ein Vorteil als auch ein Nachteil gegeben ist, gilt keiner davon und du würfelst nur mit einem W20. Dies gilt auch dann, wenn mehrere Umstände einen Nachteil verleihen und nur einer einen Vorteil oder umgekehrt. In einer solchen Situation bist du weder im Vorteil noch im Nachteil. Bist du im Vorteil oder im Nachteil und irgendetwas im Spiel - zum Beispiel ein Schicksalspunkt - lässt ein Wiederholen des W20-Wurfs zu, darfst du nur einen der Würfe erneut durchführen. Du entscheidest, welchen. Beispiel: Ist ein Kämpfer bei einem Angriffswurf im Vorteil oder im Nachteil und würfelt eine 1 und eine 13, könnte er den Wiederholungswurf einsetzen, um die 1 erneut zu würfeln. Vor- oder Nachteile entstehen gewöhnlich durch Spezialfähigkeiten, Aktionen oder Zauber. Inspiration kann einem Charakter ebenfalls einen Vorteil verleihen. Der SL kann auch entscheiden, dass die Umstände einen Wurf in die eine oder andere Richtung beeinflussen und so einen Vorteil oder einen Nachteil verleihen
-* **Eigenschafts-Modifikator:** Der Modifikator einer Eigenschaft errechnet sich aus `(Eigenschaft - 10) / 2`. Der Gewandheits-Modifikator (GEm oder GE-Mod) entspricht also (GE - 10) / 2 (aufgerundet). Ein Eigenschafts-Modifikator kann auch negativ sein.
-* **Verteidigungswert (VT):** Der VT entspricht `10 + (GEm) + RS + Boni`, z.B. durch Schilde, Helme und andere Effekte.
+* **Aktion:** Eine Haupthandlung, die ein Charakter in einer Kampfrunde ausführen kann, wie z.B. ein Angriff oder das Wirken eines Zaubers.
+* **Freie Aktion:** Eine kurze, nebensächliche Handlung, die zusätzlich zur Hauptaktion ausgeführt werden kann, wie z.B. etwas rufen oder einen Gegenstand fallen lassen.
+* **Reaktion:** Eine sofortige Handlung, die außerhalb des eigenen Zuges als Antwort auf ein Ereignis ausgeführt wird.
+* **Angriff:** Jede offensive Handlung gegen einen Gegner, sei es ein Nahkampfangriff oder ein Fernkampfangriff.
+* **Angriffsdistanz:** Der maximale Abstand, in dem ein Nahkampfangriff möglich ist, beträgt 1,5 Meter.
+* **Attacke-Modifikator (ATm)**: Berechnet als `Waffen-AT - 10`. Wird zum W20-Wurf addiert, um zu bestimmen, ob ein Angriff trifft.
+* **Initiative:** Bestimmt die Reihenfolge, in der Charaktere in einer Kampfrunde handeln.
+* **Kampfrunde (KR):** Ein Zeitabschnitt von 2-5 Sekunden, in dem jeder Beteiligte eine Aktion und eine freie Aktion ausführen kann.
+* **Kampftechnikwert (KTW):** Repräsentiert die Fertigkeit eines Charakters im Umgang mit einer bestimmten Waffenart.
+* **Lebensenergie (LE):** Repräsentiert die Gesundheit eines Charakters. Bei Verlust jeweils eines Viertels der LE erhält der Charakter eine Stufe Schmerz. Bei 0 LE liegt der Charakter im Sterben.
+* **Manöver:** Spezielle Kampftechniken, die durch Sonderfertigkeiten ermöglicht werden.
+* **Rüstungsschutz (RS):** Ein Wert, der den Verteidigungswert des Trägers erhöht.
+* **Trefferpunkte (TP):** Der Schaden, den eine Waffe verursacht, meist als Würfelwurf plus Modifikatoren dargestellt.
+* **Belastung:** Bestimmt die Rüstungsklasse: Leicht (BE 0-1), Mittel (BE 2), Schwer (BE 3+).
+* **Vorteil und Nachteil:** Bei Vorteil wird mit 2W20 gewürfelt und das bessere Ergebnis gewählt, bei Nachteil das schlechtere. Mehrfache Vor- oder Nachteile heben sich gegenseitig auf.
+* **Eigenschafts-Modifikator:** Berechnet als `(Eigenschaft - 10) / 2`, aufgerundet. Kann positiv oder negativ sein.
+* **Verteidigungswert (VT):** Berechnet als `10 + GEm + RS + Boni`. Bestimmt, wie schwer ein Charakter zu treffen ist.
