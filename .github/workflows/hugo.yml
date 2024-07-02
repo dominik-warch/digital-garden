@@ -30,7 +30,7 @@ jobs:
       with:
         switches: -avzr --quiet --delete
         path: public/
-        remote_path: /home/dominik/docker/appdata/nginx/content/hugo/
+        remote_path: /home/deploy/docker/appdata/nginx/content/hugo/
         remote_host: ${{ secrets.HOST }}
         remote_user: ${{ secrets.USER }}
         remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
