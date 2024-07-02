@@ -51,3 +51,7 @@ Pro Kampfrunde steht einem Charakter eine Aktion und eine freie Aktion zur Verf�
 * Freie Aktion: Bewegung um Geschwindigkeit (GS) in Schritten
 * Aktion: Zusätzliche Bewegung um GS
 * Sprint: Aktion + Freie Aktion für Bewegung um GS x 2
+
+## Auswirkungen von Schaden
+* Für je ein Viertel verlorene LE erhählt ein Charakter eine Stufe des Zustands Schmerz.
+* Bei 0 LE: Charakter liegt im Sterben.

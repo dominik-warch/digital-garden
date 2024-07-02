@@ -8,7 +8,7 @@ Jeder Charakter beherrscht diese grundlegenden Kampfmanöver.
 | --- | --- | --- | --- |
 | Nahkampfangriff | Aktion | Angriff mit der Haupthandwaffe | - |
 | Fernkampfangriff | Aktion | Angriff mit einer Fernkampfwaffe | - |
-| Zweithandangriff | Freie Aktion | Angriff mit der Nebenhandwaffe ohne ATm-Bonus | - |
+| Nebenhandangriff | Freie Aktion | Angriff mit der Nebenhandwaffe ohne ATm-Bonus | - |
 | Kommunizieren | Freie Aktion | Kurze verbale Äußerung (Umfang nach SL-Ermessen) | - |
 | Waffe aufheben | Aktion | Eine Waffe vom Boden aufheben | - |
 | Waffe ziehen | Aktion | Eine Waffe von Rücken/Hüfte ziehen | - |

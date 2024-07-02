@@ -32,7 +32,3 @@ Bei einer natürlichen 1 auf dem W20:
 
 ### Parrierwaffen und Schilde
 Gewähren einen Bonus auf den VT-Wert des Trägers in Höhe Ihres PAm, solange der Schild getragen und unbeschädigt ist.
-
-### Auswirkungen von Schaden
-* Für je ein Viertel verlorene LE erhählt ein Charakter eine Stufe des Zustands Schmerz.
-* Bei 0 LE: Charakter liegt im Sterben.
