@@ -7,7 +7,9 @@ weight: 1
 * **Reaktion:** Eine sofortige Handlung, die außerhalb des eigenen Zuges als Antwort auf ein Ereignis ausgeführt wird.
 * **Angriff:** Jede offensive Handlung gegen einen Gegner, sei es ein Nahkampfangriff oder ein Fernkampfangriff.
 * **Angriffsdistanz:** Der maximale Abstand, in dem ein Nahkampfangriff möglich ist, beträgt 1,5 Meter.
-* **Attacke-Modifikator (ATm)**: Berechnet als `Waffen-AT - 10`. Wird zum W20-Wurf addiert, um zu bestimmen, ob ein Angriff trifft.
+* **Attacke-Modifikator (ATm)**: Berechnet als `Waffen-AT - 10`. Wird zum W20-Wurf addiert, um zu bestimmen, ob ein Nahkampfangriff trifft.
+* **Fernkampf-Modifikator (FKm):** Berechnet als `Fernkampf-AT - 10`. Wird zum W20-Wurf addiert, um zu bestimmen, ob ein Fernkampfangriff trifft.
+* **Parade-Modifikator (PAm)** Berechnet als `Waffen-PA - 10`. Wird zum VT addiert, nur bei Schilden und Parrierwaffen anzuwenden.
 * **Initiative:** Bestimmt die Reihenfolge, in der Charaktere in einer Kampfrunde handeln.
 * **Kampfrunde (KR):** Ein Zeitabschnitt von 2-5 Sekunden, in dem jeder Beteiligte eine Aktion und eine freie Aktion ausführen kann.
 * **Kampftechnikwert (KTW):** Repräsentiert die Fertigkeit eines Charakters im Umgang mit einer bestimmten Waffenart.

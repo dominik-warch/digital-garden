@@ -26,9 +26,15 @@ Pro Kampfrunde steht einem Charakter eine Aktion und eine freie Aktion zur Verf�
 ### Freie Aktion
 * Kurze, nebensächliche Handlung
 * Wird entsprechend der Initiativereihenfolge ausgeführt
+* Beispiele: kurze Sätze rufen, einen Gegenstand fallen lassen
+
+### Reaktion
+* Sofortige Antwort auf ein Ereignis oder eine gegnerische Aktion
+* Kann auch außerhalb des eigenen Zuges ausgeführt werden
+* Beispiele: Passierschlag, bestimmte Verteidigungsmanöver
 
 ### Länger dauernde Handlungen
-* Länger dauernde Handlungen werden in Aktionen gezählt'
+* Länger dauernde Handlungen werden in Aktionen gezählt.
 * Länger dauernde Handlungen dürfen nicht unterbrochen werden, ohne dass sie als gescheitert gelten. Im Gegensatz dazu gibt es Handlungen, die einen bestimmten Zeitraum dauern, aber unterbrochen werden können (z.B. einen Baum fällen).
 * Bestimmte freie Aktionen können während einer länger dauernden Handlung ausgeführt werden, ohne dass sie unterbrochen wird. Das letzte Wort hat der Spielleiter.
 * Sollte es während einer länger dauernden Handlung zu Störungen kommen, muss geprobt werden, ob der Charakter die Störung ignorieren kann. Erforderlich ist eine Probe auf *Selbstbeherrschung (Störungen ignorieren)* oder *Selbstbeherrschung (Handlungsfähigkeit bewahren)* nötig. Sie kann durch besondere Situation oder erlittene Schadenspunkte modifiziert sein. Bei Misslingen bricht die länger dauernde Handlung ab.
