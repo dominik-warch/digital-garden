@@ -1,4 +1,0 @@
----
-title: Programmiersprachen
-geekdocCollapseSection: true
----

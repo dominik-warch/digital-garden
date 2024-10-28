@@ -1,4 +1,0 @@
----
-title: Tabletop
-geekdocCollapseSection: true
----

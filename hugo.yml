@@ -1,0 +1,68 @@
+theme: docura
+
+enableGitInfo: true
+
+defaultContentLanguage: de
+
+languages:
+  de:
+    weight: 1
+    languageName: German
+    languageCode: de-DE
+    contentDir: content/de
+    title: Rübenjungs
+    params:
+      description: Theaterritter Est. 2020
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+
+  author:
+    name: Dominik Warch
+    url: https://domnek.de
+
+  themeColors:
+    light: '#ffffff'
+    dark: '#121212'
+
+  years:
+    start: ''
+    present: 2024
+
+  social:
+    github: ''
+    youtube: ''
+    facebook: ''
+    x: ''
+
+  algolia:
+    en:
+      container: '#site-header-search'
+      appId: ''
+      indexName: ''
+      apiKey: ''
+
+  home:
+
+    repository: 'your/repo'
+
+menu:
+  main:
+
+    - url: /
+      name: Home
+      identifier: home
+      pre: "<i class='icon icon-home'></i>"
+      weight: 1
+
+    - url: /docs
+      name: Wiki
+      identifier: docs
+      pre: "<i class='icon icon-book'></i>"
+      weight: 2
